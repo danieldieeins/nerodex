@@ -26,7 +26,8 @@
       ]
     },
     "resources": {
-      "thumbnail": "https://i.ibb.co/R0Mrpx5/cinematica.png"
+      "thumbnail": "https://cdn.nerofy.de/nero/0e60154c-1a43-4244-a466-70ee1362e3b1/bae490b0-4f94-4ff3-b85c-ee28e5f744da",
+      "icon": "https://cdn.nerofy.de/nero/0e60154c-1a43-4244-a466-70ee1362e3b1/bae490b0-4f94-4ff3-b85c-ee28e5f744da"
     },
     "versions": {
       "forge": "14.23.5.2860",
