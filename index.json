@@ -1,0 +1,10 @@
+{
+  "name": "NerodEX",
+  "url": "https://danieldieeins.github.io/zyndex/index.json",
+  "owner": "nerotvlive",
+  "instances": [
+    "https://danieldieeins.github.io/zyndex/cinematica.json",
+    "https://danieldieeins.github.io/zyndex/flippidi.json"
+  ],
+  "modules": []
+}
